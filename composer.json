@@ -9,7 +9,7 @@
       "email": "ceekayel@trick-e.com"
     }
   ],
-  "type"    : "wordpress-template",
+  "type"    : "wordpress-theme",
   "require": {
     "php": ">=5.4 <5.7",
     "composer/installers": "^1.0"
