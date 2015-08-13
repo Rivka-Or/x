@@ -1,0 +1,17 @@
+{
+  "name": "trick-e/x-template",
+  "description": "A Wordpress template called X.",
+  "license": "proprietary",
+  "keywords": ["wordpress","theme","themes", "x", "themeforest"],
+  "authors": [
+    {
+      "name": "Christopher Legan",
+      "email": "ceekayel@trick-e.com"
+    }
+  ],
+  "type"    : "wordpress-template",
+  "require": {
+    "php": ">=5.4 <5.7"
+  },
+  "minimum-stability": "stable"
+}
