@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4a727a552bff9f031c35eb72319b0d97",
+    "hash": "8b35247e90e27e597e66ad904eede26a",
     "packages": [
         {
             "name": "composer/installers",
@@ -100,26 +100,6 @@
                 "zikula"
             ],
             "time": "2015-02-18 17:17:01"
-        },
-        {
-            "name": "wpackagist-plugin/cornerstone",
-            "version": "0.7.2",
-            "source": {
-                "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/cornerstone/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cornerstone.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/cornerstone/"
         }
     ],
     "packages-dev": [],
